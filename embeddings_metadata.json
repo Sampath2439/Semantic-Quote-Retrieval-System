@@ -1,0 +1,6 @@
+{
+  "model_name": "all-MiniLM-L6-v2",
+  "num_quotes": 2506,
+  "embedding_dim": 384,
+  "using_sentence_transformers": true
+}

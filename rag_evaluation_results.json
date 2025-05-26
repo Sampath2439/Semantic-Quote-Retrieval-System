@@ -1,0 +1,28 @@
+{
+  "retrieval_metrics": {
+    "avg_author_precision": 0.9,
+    "std_author_precision": 0.14142135623730953,
+    "avg_theme_relevance": 0.21666666666666667,
+    "std_theme_relevance": 0.1512103942635338,
+    "avg_diversity_score": 0.7,
+    "std_diversity_score": 0.3872983346207417,
+    "avg_avg_similarity_score": 0.11995061562893519,
+    "std_avg_similarity_score": 0.041062365313233075
+  },
+  "response_metrics": {
+    "avg_response_length": 150.375,
+    "std_response_length": 17.75484088917724,
+    "avg_quote_inclusion_rate": 1.0,
+    "std_quote_inclusion_rate": 0.0,
+    "avg_author_mention_rate": 1.0,
+    "std_author_mention_rate": 0.0,
+    "avg_tag_coverage_rate": 1.0,
+    "std_tag_coverage_rate": 0.0
+  },
+  "test_cases_count": 8,
+  "evaluation_summary": {
+    "retrieval_quality": "Poor",
+    "response_length": "Optimal",
+    "overall_performance": "Good"
+  }
+}

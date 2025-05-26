@@ -1,0 +1,9 @@
+{
+  "total_quotes": 2506,
+  "unique_authors": 738,
+  "avg_quote_length": 166.31564245810057,
+  "min_quote_length": 14,
+  "max_quote_length": 3905,
+  "total_unique_tags": 2161,
+  "avg_tags_per_quote": 3.193535514764565
+}

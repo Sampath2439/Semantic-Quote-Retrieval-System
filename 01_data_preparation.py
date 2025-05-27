@@ -46,6 +46,15 @@ class QuoteDataProcessor:
         if pd.isna(quote):
             return ""
 
+        # Import html for unescaping
+        import html
+
+        # Unescape HTML entities
+        quote = html.unescape(quote)
+
+        # Remove HTML tags
+        quote = re.sub(r'<[^>]+>', '', quote)
+
         # Remove extra quotes at beginning and end
         quote = quote.strip()
         if quote.startswith('"') and quote.endswith('"'):

@@ -1,0 +1,566 @@
+{
+  "timestamp": "2025-05-27T11:54:34.270591",
+  "test_cases": [
+    {
+      "test_case": {
+        "id": 1,
+        "query": "Einstein quotes about imagination",
+        "expected_author": "Albert Einstein",
+        "expected_themes": [
+          "imagination",
+          "creativity",
+          "thinking"
+        ],
+        "expected_quote_contains": [
+          "imagination",
+          "logic"
+        ],
+        "difficulty": "easy",
+        "category": "author_specific"
+      },
+      "results": {
+        "retrieved_quotes": 5,
+        "response_time": 0.10050058364868164,
+        "author_accuracy": 0.8,
+        "theme_relevance": 0.13333333333333333,
+        "content_quality": {
+          "content_relevance": 0.2,
+          "quote_appropriateness": 1.0,
+          "diversity_score": 0.4
+        },
+        "response_quality": {
+          "response_length": 1.0,
+          "coherence": 1.0,
+          "relevance": 1.0
+        },
+        "overall_score": 0.6888888888888888
+      },
+      "sample_quotes": [
+        {
+          "quote": "“Logic will get you from A to Z; imagination will get you everywhere.”",
+          "author": "Albert Einstein",
+          "tags": [
+            "imagination"
+          ],
+          "similarity_score": 0.14285714285714285
+        },
+        {
+          "quote": "“We are what we pretend to be, so we must be careful about what we pretend to be.”",
+          "author": "Kurt Vonnegut",
+          "tags": [
+            "action",
+            "attitude",
+            "choice",
+            "imagination",
+            "inspiration",
+            "life",
+            "pretend"
+          ],
+          "similarity_score": 0.08695652173913043
+        },
+        {
+          "quote": "“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”",
+          "author": "Albert Einstein",
+          "tags": [
+            "human-nature",
+            "humor",
+            "infinity",
+            "philosophy",
+            "science",
+            "stupidity",
+            "universe"
+          ],
+          "similarity_score": 0.08333333333333333
+        }
+      ],
+      "ai_response": "Here are some relevant quotes for your query about 'Einstein quotes about imagination':\n\n1. \"“Logic will get you from A to Z; imagination will get you everywhere.”\"\n   - Albert Einstein\n   - Tags: ima..."
+    },
+    {
+      "test_case": {
+        "id": 2,
+        "query": "wisdom for difficult times",
+        "expected_themes": [
+          "wisdom",
+          "difficulty",
+          "hardship",
+          "resilience"
+        ],
+        "expected_authors": [
+          "Maya Angelou",
+          "Paulo Coelho",
+          "Dalai Lama"
+        ],
+        "difficulty": "medium",
+        "category": "thematic"
+      },
+      "results": {
+        "retrieved_quotes": 5,
+        "response_time": 0.09449911117553711,
+        "author_accuracy": 1.0,
+        "theme_relevance": 0.2,
+        "content_quality": {
+          "content_relevance": 1.0,
+          "quote_appropriateness": 1.0,
+          "diversity_score": 1.0
+        },
+        "response_quality": {
+          "response_length": 1.0,
+          "coherence": 1.0,
+          "relevance": 1.0
+        },
+        "overall_score": 0.8666666666666667
+      },
+      "sample_quotes": [
+        {
+          "quote": "“The desire to reach for the stars is ambitious. The desire to reach hearts is wise.”",
+          "author": "Maya Angelou",
+          "tags": [
+            "ambition",
+            "inspirational",
+            "wisdom"
+          ],
+          "similarity_score": 0.1111111111111111
+        },
+        {
+          "quote": "“The secret of life, though, is to fall seven times and to get up eight times.”",
+          "author": "Paulo Coelho",
+          "tags": [
+            "wisdom"
+          ],
+          "similarity_score": 0.1
+        },
+        {
+          "quote": "“God will not look you over for medals, degrees or diplomas but for scars.”",
+          "author": "Elbert Hubbard",
+          "tags": [
+            "faith",
+            "god",
+            "wisdom"
+          ],
+          "similarity_score": 0.1
+        }
+      ],
+      "ai_response": "Here are some relevant quotes for your query about 'wisdom for difficult times':\n\n1. \"“The desire to reach for the stars is ambitious. The desire to reach hearts is wise.”\"\n   - Maya Angelou\n   - Tags..."
+    },
+    {
+      "test_case": {
+        "id": 3,
+        "query": "funny quotes by Oscar Wilde",
+        "expected_author": "Oscar Wilde",
+        "expected_themes": [
+          "humor",
+          "wit",
+          "funny"
+        ],
+        "expected_quote_contains": [
+          "humor",
+          "wit"
+        ],
+        "difficulty": "easy",
+        "category": "author_and_style"
+      },
+      "results": {
+        "retrieved_quotes": 5,
+        "response_time": 0.10199594497680664,
+        "author_accuracy": 1.0,
+        "theme_relevance": 0.06666666666666667,
+        "content_quality": {
+          "content_relevance": 0.0,
+          "quote_appropriateness": 1.0,
+          "diversity_score": 0.2
+        },
+        "response_quality": {
+          "response_length": 1.0,
+          "coherence": 1.0,
+          "relevance": 1.0
+        },
+        "overall_score": 0.6777777777777777
+      },
+      "sample_quotes": [
+        {
+          "quote": "“Who, being loved, is poor?”",
+          "author": "Oscar Wilde",
+          "tags": [
+            "love"
+          ],
+          "similarity_score": 0.18181818181818182
+        },
+        {
+          "quote": "“No good deed goes unpunished.”",
+          "author": "Oscar Wilde",
+          "tags": [
+            "humor"
+          ],
+          "similarity_score": 0.18181818181818182
+        },
+        {
+          "quote": "“To define is to limit.”",
+          "author": "Oscar Wilde",
+          "tags": [
+            "dandy",
+            "lord-henry-wotton",
+            "wilde"
+          ],
+          "similarity_score": 0.16666666666666666
+        }
+      ],
+      "ai_response": "Here are some relevant quotes for your query about 'funny quotes by Oscar Wilde':\n\n1. \"“Who, being loved, is poor?”\"\n   - Oscar Wilde\n   - Tags: love\n   - Relevance Score: 0.182\n\n2. \"“No good deed goe..."
+    },
+    {
+      "test_case": {
+        "id": 4,
+        "query": "love quotes for wedding speeches",
+        "expected_themes": [
+          "love",
+          "marriage",
+          "relationship",
+          "romance"
+        ],
+        "expected_context": "wedding_appropriate",
+        "difficulty": "hard",
+        "category": "contextual"
+      },
+      "results": {
+        "retrieved_quotes": 5,
+        "response_time": 0.06600165367126465,
+        "author_accuracy": 1.0,
+        "theme_relevance": 0.25,
+        "content_quality": {
+          "content_relevance": 1.0,
+          "quote_appropriateness": 1.0,
+          "diversity_score": 1.0
+        },
+        "response_quality": {
+          "response_length": 1.0,
+          "coherence": 1.0,
+          "relevance": 1.0
+        },
+        "overall_score": 0.875
+      },
+      "sample_quotes": [
+        {
+          "quote": "“We love the things we love for what they are.”",
+          "author": "Robert Frost",
+          "tags": [
+            "love",
+            "poetry"
+          ],
+          "similarity_score": 0.13333333333333333
+        },
+        {
+          "quote": "“Gravitation is not responsible for people falling in love.”",
+          "author": "Albert Einstein",
+          "tags": [
+            "love"
+          ],
+          "similarity_score": 0.13333333333333333
+        },
+        {
+          "quote": "“I would die for you. But I won't live for you.”",
+          "author": "Stephen Chbosky",
+          "tags": [
+            "love"
+          ],
+          "similarity_score": 0.125
+        }
+      ],
+      "ai_response": "Here are some relevant quotes for your query about 'love quotes for wedding speeches':\n\n1. \"“We love the things we love for what they are.”\"\n   - Robert Frost\n   - Tags: love, poetry\n   - Relevance Sc..."
+    },
+    {
+      "test_case": {
+        "id": 5,
+        "query": "motivational quotes about success",
+        "expected_themes": [
+          "motivation",
+          "success",
+          "achievement",
+          "inspiration"
+        ],
+        "expected_tone": "positive",
+        "difficulty": "medium",
+        "category": "motivational"
+      },
+      "results": {
+        "retrieved_quotes": 5,
+        "response_time": 0.06449198722839355,
+        "author_accuracy": 1.0,
+        "theme_relevance": 0.25,
+        "content_quality": {
+          "content_relevance": 1.0,
+          "quote_appropriateness": 1.0,
+          "diversity_score": 1.0
+        },
+        "response_quality": {
+          "response_length": 1.0,
+          "coherence": 1.0,
+          "relevance": 1.0
+        },
+        "overall_score": 0.875
+      },
+      "sample_quotes": [
+        {
+          "quote": "“If at first you don't succeed, try, try again. Then quit. No use being a damn fool about it.”",
+          "author": "W.C. Fields",
+          "tags": [
+            "humor",
+            "success"
+          ],
+          "similarity_score": 0.08
+        },
+        {
+          "quote": "“Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness.”",
+          "author": "Steve Maraboli",
+          "tags": [
+            "cry",
+            "forgive",
+            "happiness",
+            "inspiration",
+            "learn",
+            "letting-go",
+            "life",
+            "motivational",
+            "moving-on",
+            "seeds",
+            "success",
+            "tears",
+            "water"
+          ],
+          "similarity_score": 0.07142857142857142
+        },
+        {
+          "quote": "“You've got about as much charm as a dead slug.”",
+          "author": "Suzanne Collins",
+          "tags": [
+            "the-hunger-games"
+          ],
+          "similarity_score": 0.06666666666666667
+        }
+      ],
+      "ai_response": "Here are some relevant quotes for your query about 'motivational quotes about success':\n\n1. \"“If at first you don't succeed, try, try again. Then quit. No use being a damn fool about it.”\"\n   - W.C. F..."
+    },
+    {
+      "test_case": {
+        "id": 6,
+        "query": "philosophical quotes about existence",
+        "expected_themes": [
+          "philosophy",
+          "existence",
+          "life",
+          "meaning"
+        ],
+        "expected_authors": [
+          "Aristotle",
+          "Plato",
+          "Nietzsche",
+          "Camus"
+        ],
+        "difficulty": "hard",
+        "category": "philosophical"
+      },
+      "results": {
+        "retrieved_quotes": 5,
+        "response_time": 0.06524252891540527,
+        "author_accuracy": 1.0,
+        "theme_relevance": 0.05,
+        "content_quality": {
+          "content_relevance": 1.0,
+          "quote_appropriateness": 1.0,
+          "diversity_score": 1.0
+        },
+        "response_quality": {
+          "response_length": 1.0,
+          "coherence": 1.0,
+          "relevance": 1.0
+        },
+        "overall_score": 0.8416666666666667
+      },
+      "sample_quotes": [
+        {
+          "quote": "“You've got about as much charm as a dead slug.”",
+          "author": "Suzanne Collins",
+          "tags": [
+            "the-hunger-games"
+          ],
+          "similarity_score": 0.06666666666666667
+        },
+        {
+          "quote": "“Everything in the world is about sex except sex. Sex is about power.”",
+          "author": "Oscar Wilde",
+          "tags": [
+            "power",
+            "sex"
+          ],
+          "similarity_score": 0.0625
+        },
+        {
+          "quote": "“Life isn't about finding yourself. Life is about creating yourself.”",
+          "author": "George Bernard Shaw",
+          "tags": [
+            "inspirational",
+            "life",
+            "yourself"
+          ],
+          "similarity_score": 0.058823529411764705
+        }
+      ],
+      "ai_response": "Here are some relevant quotes for your query about 'philosophical quotes about existence':\n\n1. \"“You've got about as much charm as a dead slug.”\"\n   - Suzanne Collins\n   - Tags: the-hunger-games\n   - ..."
+    },
+    {
+      "test_case": {
+        "id": 7,
+        "query": "quotes about books and reading",
+        "expected_themes": [
+          "books",
+          "reading",
+          "literature",
+          "knowledge"
+        ],
+        "expected_quote_contains": [
+          "book",
+          "read",
+          "literature"
+        ],
+        "difficulty": "easy",
+        "category": "topic_specific"
+      },
+      "results": {
+        "retrieved_quotes": 5,
+        "response_time": 0.058522939682006836,
+        "author_accuracy": 1.0,
+        "theme_relevance": 0.55,
+        "content_quality": {
+          "content_relevance": 1.0,
+          "quote_appropriateness": 1.0,
+          "diversity_score": 1.0
+        },
+        "response_quality": {
+          "response_length": 1.0,
+          "coherence": 1.0,
+          "relevance": 1.0
+        },
+        "overall_score": 0.9249999999999999
+      },
+      "sample_quotes": [
+        {
+          "quote": "“Sleep is good, he said, and books are better.”",
+          "author": "George R. R. Martin",
+          "tags": [
+            "books",
+            "reading"
+          ],
+          "similarity_score": 0.2
+        },
+        {
+          "quote": "“\"²Classic\"² - a book which people praise and don't read.”",
+          "author": "Mark Twain",
+          "tags": [
+            "books",
+            "classic",
+            "reading"
+          ],
+          "similarity_score": 0.17647058823529413
+        },
+        {
+          "quote": "“Books are the plane, and the train, and the road. They are the destination, and the journey. They are home.”",
+          "author": "Anna Quindlen",
+          "tags": [
+            "books",
+            "journey",
+            "reading",
+            "travel"
+          ],
+          "similarity_score": 0.15789473684210525
+        }
+      ],
+      "ai_response": "Here are some relevant quotes for your query about 'quotes about books and reading':\n\n1. \"“Sleep is good, he said, and books are better.”\"\n   - George R. R. Martin\n   - Tags: books, reading\n   - Relev..."
+    },
+    {
+      "test_case": {
+        "id": 8,
+        "query": "inspirational quotes for students",
+        "expected_themes": [
+          "inspiration",
+          "learning",
+          "education",
+          "growth"
+        ],
+        "expected_context": "educational",
+        "difficulty": "medium",
+        "category": "audience_specific"
+      },
+      "results": {
+        "retrieved_quotes": 5,
+        "response_time": 0.09749960899353027,
+        "author_accuracy": 1.0,
+        "theme_relevance": 0.25,
+        "content_quality": {
+          "content_relevance": 1.0,
+          "quote_appropriateness": 1.0,
+          "diversity_score": 0.8
+        },
+        "response_quality": {
+          "response_length": 1.0,
+          "coherence": 1.0,
+          "relevance": 1.0
+        },
+        "overall_score": 0.875
+      },
+      "sample_quotes": [
+        {
+          "quote": "“Ask for what you want and be prepared to get it!”",
+          "author": "Maya Angelou",
+          "tags": [
+            "inspirational"
+          ],
+          "similarity_score": 0.125
+        },
+        {
+          "quote": "“I'd rather be hated for who I am, than loved for who I am not.”",
+          "author": "Kurt Cobain",
+          "tags": [
+            "inspirational"
+          ],
+          "similarity_score": 0.11764705882352941
+        },
+        {
+          "quote": "“Shoot for the moon. Even if you miss, you'll land among the stars.”",
+          "author": "Norman Vincent Peale",
+          "tags": [
+            "inspirational"
+          ],
+          "similarity_score": 0.1111111111111111
+        }
+      ],
+      "ai_response": "Here are some relevant quotes for your query about 'inspirational quotes for students':\n\n1. \"“Ask for what you want and be prepared to get it!”\"\n   - Maya Angelou\n   - Tags: inspirational\n   - Relevan..."
+    }
+  ],
+  "summary_metrics": {
+    "total_test_cases": 8,
+    "average_overall_score": 0.828125,
+    "score_std": 0.08633972229863231,
+    "average_response_time": 0.08109429478645325,
+    "average_author_accuracy": 0.975,
+    "average_theme_relevance": 0.21875,
+    "scores_by_difficulty": {
+      "easy": 0.7638888888888888,
+      "medium": 0.8722222222222222,
+      "hard": 0.8583333333333334
+    },
+    "scores_by_category": {
+      "author_specific": 0.6888888888888888,
+      "thematic": 0.8666666666666667,
+      "author_and_style": 0.6777777777777777,
+      "contextual": 0.875,
+      "motivational": 0.875,
+      "philosophical": 0.8416666666666667,
+      "topic_specific": 0.9249999999999999,
+      "audience_specific": 0.875
+    }
+  },
+  "insights": [
+    "Excellent overall performance with high accuracy across test cases",
+    "Excellent response times, suitable for real-time applications",
+    "Strong author recognition capabilities",
+    "Thematic relevance needs improvement, consider expanding tag vocabulary"
+  ]
+}

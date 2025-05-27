@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-System Test Script for RAG-Based Semantic Quote Retrieval
-Quick verification that all components are working correctly.
-"""
-
 import json
 import numpy as np
 import warnings

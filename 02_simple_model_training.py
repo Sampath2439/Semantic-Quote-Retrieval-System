@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-Simplified Model Training Script for RAG-Based Semantic Quote Retrieval
-This script creates embeddings and builds a simple retrieval system without fine-tuning.
-"""
-
 import json
 import pandas as pd
 import numpy as np

@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-Launch Script for RAG-Based Semantic Quote Retrieval System
-Simple script to start the Streamlit application with proper setup.
-"""
-
 import subprocess
 import sys
 import os

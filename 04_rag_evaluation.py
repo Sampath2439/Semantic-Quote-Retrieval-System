@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-RAG Evaluation Script using RAGAS Framework
-This script evaluates the RAG system using various metrics.
-"""
-
 import json
 import pandas as pd
 import numpy as np

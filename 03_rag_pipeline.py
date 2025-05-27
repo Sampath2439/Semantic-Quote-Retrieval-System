@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-RAG Pipeline Implementation for Semantic Quote Retrieval
-This script implements a complete RAG system with retrieval and generation.
-"""
-
 import json
 import numpy as np
 import pandas as pd

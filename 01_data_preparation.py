@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-Data Preparation Script for RAG-Based Semantic Quote Retrieval
-This script loads, cleans, and preprocesses the English quotes dataset.
-"""
-
 import pandas as pd
 import numpy as np
 import re

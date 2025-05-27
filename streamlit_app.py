@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-Streamlit Application for RAG-Based Semantic Quote Retrieval
-Interactive web interface for querying quotes with semantic search.
-"""
-
 import streamlit as st
 import json
 import pandas as pd
